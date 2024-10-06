@@ -28,15 +28,16 @@ body {
 }
 
 .navbar {
-	background: #1414141;
-	height: 80px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-size: 1.2rem;
-	position: sticky;
-	top: 0;
-	z-index: 999;
+	background: #141414; /* Corrected to a valid hex color */
+	height: 80px; /* Set the height of the element */
+	display: flex; /* Use flexbox for alignment */
+	justify-content: center; /* Center content horizontally */
+	align-items: center; /* Center content vertically */
+	font-size: 1.2rem; /* Set font size for text inside the element */
+	position: sticky; /* Make the element stick at the top when scrolling */
+	top: 0; /* Ensure the element sticks to the top */
+	z-index: 999; /* Ensure the element stays on top of other content */
+
 }
 
 .navbar__container {

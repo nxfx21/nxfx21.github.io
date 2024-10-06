@@ -24,10 +24,11 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: 'Inter', sans-serif;
+	background-color: #141414;
 }
 
 .navbar {
-	background: #131313;
+	background: #1414141;
 	height: 80px;
 	display: flex;
 	justify-content: center;
